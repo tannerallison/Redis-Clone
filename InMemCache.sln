@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemCache", "InMemCache\InMemCache.csproj", "{B73FC32F-4126-4CB5-BE7E-3856F765994B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemCache.Tests", "InMemCache.Tests\InMemCache.Tests.csproj", "{26CA28C2-BF6C-4B55-9A92-2F54A7939F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B73FC32F-4126-4CB5-BE7E-3856F765994B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73FC32F-4126-4CB5-BE7E-3856F765994B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73FC32F-4126-4CB5-BE7E-3856F765994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73FC32F-4126-4CB5-BE7E-3856F765994B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26CA28C2-BF6C-4B55-9A92-2F54A7939F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CA28C2-BF6C-4B55-9A92-2F54A7939F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CA28C2-BF6C-4B55-9A92-2F54A7939F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CA28C2-BF6C-4B55-9A92-2F54A7939F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
